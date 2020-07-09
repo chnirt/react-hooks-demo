@@ -1,0 +1,18 @@
+{
+  "Welcome to React": "Welcome to React and react-i18next",
+  "Language": "Language",
+  "Mode": "Mode",
+  "Dark": "Dark",
+  "Light": "Light",
+  "English": "English",
+  "Vietnamese": "Vietnamese",
+  "LoginPage": "Login Page",
+  "Login": "Login",
+  "Register": "Register",
+  "RegisterPage": "Register Page",
+  "HomePage": "Home Page",
+  "Hello": "Hello",
+  "Logout": "Log out",
+  "No match for": "No match for",
+  "Back": "Back"
+}

@@ -1,0 +1,18 @@
+{
+  "Welcome to React": "Xin chào React và react-i18next",
+  "Language": "Ngôn ngữ",
+  "Mode": "Chế độ",
+  "Dark": "Tối",
+  "Light": "Sáng",
+  "English": "Tiếng Anh",
+  "Vietnamese": "Tiếng Việt",
+  "LoginPage": "Trang đăng nhập",
+  "Login": "Đăng nhập",
+  "Register": "Đăng ký",
+  "RegisterPage": "Trang đăng ký",
+  "HomePage": "Trang home",
+  "Hello": "Xin chào",
+  "Logout": "Đăng xuất",
+  "No match for": "Không khớp với",
+  "Back": "Trở về"
+}
